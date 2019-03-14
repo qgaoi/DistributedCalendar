@@ -5,7 +5,7 @@
 	java Main wuu <nodeID(a integer, 0, 1, or 2)>
 start nodes using Wuu-Bernstein Algorithm, or
 	java Main paxos <nodeID>
-start node using Paxos Algorithm. Ports 5001~5003 are used for Wuu-Bernstein nodes, while ports 5004~5006 are used for Paxos Algorithm.
+start node using Paxos Algorithm. 
 4. The format of add 
 	add <appointmentName> <day> <startTime> <endTime> <participants>
 5. The format of delete
