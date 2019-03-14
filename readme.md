@@ -6,11 +6,7 @@
 start nodes using Wuu-Bernstein Algorithm, or
 	java Main paxos <nodeID>
 start node using Paxos Algorithm. 
-4. The format of add 
-	add <appointmentName> <day> <startTime> <endTime> <participants>
-5. The format of delete
-	delete <appointmentID>
-6. The format of view
-	view
-7. The format of view all
-	view all
+4. add <appointmentName> <day> <startTime> <endTime> <participants>
+5. delete <appointmentID>
+6. view
+7. view all
